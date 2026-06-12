@@ -3,4 +3,4 @@ This is a static page that redirects to Google Docs, Это статическа
 
 
 https://docs.google.com/document/d/1pdeM42iWifcgorEHDlQ2b-LlK-qu502Jtu1kEjHJO8Y/edit?tab=t.0
-https://finchmarshmallow.github.io/dio/
+https://finchmarshmallow.github.io/Bio/
